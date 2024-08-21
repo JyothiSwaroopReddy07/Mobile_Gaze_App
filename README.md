@@ -1,7 +1,6 @@
 # Mobile Gaze
 This work is heavily based on Google's Firebase ML kit Sample(2020, June Version)<br>
 
-# Sample Video Demo
 <a href="https://youtu.be/e1oajXnu_BY?feature=shared">Demo </a>
 
 # System Architecture
