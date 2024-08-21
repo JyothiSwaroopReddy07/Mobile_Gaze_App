@@ -1,8 +1,12 @@
 # Mobile Gaze
 This work is heavily based on Google's Firebase ML kit Sample(2020, June Version)<br>
 
-# MOBILE GAZE
-![overview](https://user-images.githubusercontent.com/30307587/109145148-71f31f80-77a5-11eb-94a7-34a47a1f19d5.png)
+# Sample Video Demo
+<a href="https://youtu.be/e1oajXnu_BY?feature=shared">Demo </a>
+
+# System Architecture
+![system_architecture](https://github.com/user-attachments/assets/ff1adff6-75a9-4f2a-a6a2-a7a7c9443144)
+
 This work is heavily based on Google's Firebase ML kit Sample(2020, June Version)<br>
 https://github.com/googlesamples/mlkit/tree/master/android/vision-quickstart <br>
 inspired by: <a href="https://gazecapture.csail.mit.edu/">Eye Tracking for Everyone(2016 CVPR)</a><br><br>
