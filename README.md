@@ -10,4 +10,4 @@ Green dot represent "Moving Averaged Output" (if Calibration is done, moving ave
 Red dot represent "Calibrated Raw Output"<br>
 Trained with MIT gaze capture dataset data ,tested on Galaxy Tab S6<br>
 
-# Mobile_Gaze_App
+
