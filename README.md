@@ -3,8 +3,6 @@ This work is heavily based on Google's Firebase ML kit Sample(2020, June Version
 
 ## <a href="https://youtu.be/e1oajXnu_BY?feature=shared">VIDEO Demo </a>
 
-# System Architecture
-![system_architecture](https://github.com/user-attachments/assets/ff1adff6-75a9-4f2a-a6a2-a7a7c9443144)
 
 This work is heavily based on Google's Firebase ML kit Sample(2020, June Version)<br>
 https://github.com/googlesamples/mlkit/tree/master/android/vision-quickstart <br>
